@@ -37,7 +37,7 @@ function Home() {
     return (
         <>
             <div className="name-form">
-                <label htmlFor="visitor-name">Quem é o cantor?</label>
+                <label htmlFor="visitor-name">Qual seu nome?</label>
                 <input 
                     type="text" 
                     id="visitor-name" 
